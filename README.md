@@ -9,7 +9,7 @@ Given that there are already various machine learning related discussions and op
 
 This code needs to **input the audio** of a bird's voice and **pre-distinguish the different bird species** (the bird's voice is collected in the protected area and distinguish different types by machine recognition), and then generated in a specific area of the background (corresponding to the actual position) Particles representing birds, different colors represent different bird species, and round particles represent rare birds.
 ### demo
-!gif(image/[gif.2019-10-09 19_36_02.gif])
+![gif](https://github.com/siyangBai/twittering_sparkles/image/gif.2019-10-09%2019_36_02.gif)
 ### How to Run This Code
   * Download and install Processing on <https://processing.org/download/>
   

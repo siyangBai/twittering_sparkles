@@ -15,7 +15,7 @@ This code needs to **input the audio** of a bird's voice and **pre-distinguish t
   
   * Save the "birdssing" file to the "data" folder of the processing folder 
   
-  * Run the pde file "flocking"
+  * Run the pde file "flocking.pde"
 
 
 
@@ -37,3 +37,4 @@ This code needs to **input the audio** of a bird's voice and **pre-distinguish t
 
 ## Reference
 * https://processing.org/examples/flocking.html Flocking by **Daniel Shiffman**
+* https://processing.org/reference/libraries/sound/index.html

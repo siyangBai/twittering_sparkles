@@ -1,4 +1,4 @@
-# twittering sparkles
+# Twittering Sparkles
 
 ## Introduction
 
@@ -8,8 +8,9 @@ The project seeks to create a **win-win mode** between hotels near bird sanctuar
 Given that there are already various machine learning related discussions and open source tool available ( <https://www.kdnuggets.com/2014/12/open-source-tools-machine-learning.html> ), also bird species recognition with sounds. My code here **only deal with artistical part** of the whole data pipeline. The species of birds are hard coded in my program, but the visual effects such as numbers of moving shapes are still generatively based on input like volume.
 
 This code needs to **input the audio** of a bird's voice and **pre-distinguish the different bird species** (the bird's voice is collected in the protected area and distinguish different types by machine recognition), and then generated in a specific area of the background (corresponding to the actual position) Particles representing birds, different colors represent different bird species, and round particles represent rare birds.
-### demo
+### Demo
 ![gif](image/Demo.gif)
+
 ### How to Run This Code
   * Download and install Processing on <https://processing.org/download/>
   
@@ -36,5 +37,6 @@ This code needs to **input the audio** of a bird's voice and **pre-distinguish t
 
 
 ## Reference
+
 * https://processing.org/examples/flocking.html Flocking by **Daniel Shiffman**
 * https://processing.org/reference/libraries/sound/index.html
